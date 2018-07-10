@@ -9,10 +9,10 @@
 | Dagger 2     | A fast dependency injector for Android and Java.|  https://github.com/google/dagger     |
 | glide     | An image loading and caching library for Android focused on smooth scrolling|  https://github.com/bumptech/glide    |
 | okhttp     | An HTTP+HTTP/2 client for Android and Java applications. |  https://github.com/square/okhttp    |
-| ARouter     | Ò»¸öÓÃÓÚ°ïÖú Android App ½øĞĞ×é¼ş»¯¸ÄÔìµÄ¿ò¼Ü ¡ª¡ª Ö§³ÖÄ£¿é¼äµÄÂ·ÓÉ¡¢Í¨ĞÅ¡¢½âñî |  https://github.com/alibaba/ARouter    |
+| ARouter     | ä¸€ä¸ªç”¨äºå¸®åŠ© Android App è¿›è¡Œç»„ä»¶åŒ–æ”¹é€ çš„æ¡†æ¶ â€”â€” æ”¯æŒæ¨¡å—é—´çš„è·¯ç”±ã€é€šä¿¡ã€è§£è€¦ |  https://github.com/alibaba/ARouter    |
 
 
-###widget
+### widget
 
 
 | Name        | des  |  url |
@@ -21,12 +21,12 @@
 | vlayout     | Project vlayout is a powerfull LayoutManager extension for RecyclerView|  https://github.com/alibaba/vlayout     |
 
 
-###bundle
+### bundle
 
 
 | Name        | des  |  url |
 | --------   | -----  | ---- |
-| android-zxingLibrary     | ¼¸ĞĞ´úÂë¿ìËÙ¼¯³É¶şÎ¬ÂëÉ¨Ãè¹¦ÄÜ|  https://github.com/yipianfengye/android-zxingLibrary     |
+| android-zxingLibrary     | å‡ è¡Œä»£ç å¿«é€Ÿé›†æˆäºŒç»´ç æ‰«æåŠŸèƒ½|  https://github.com/yipianfengye/android-zxingLibrary     |
 | zxing     | ZXing ("Zebra Crossing") barcode scanning library for Java, Android| https://github.com/zxing/zxing    |
 | Luban     |Image compression with efficiency very close to WeChat Moments|  https://github.com/Curzibn/Luban     |
-| PictureSelector     |¶àÍ¼Æ¬Ñ¡ÔñÆ÷|  https://github.com/LuckSiege/PictureSelector     |
+| PictureSelector     |å¤šå›¾ç‰‡é€‰æ‹©å™¨|  https://github.com/LuckSiege/PictureSelector     |
