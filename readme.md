@@ -30,3 +30,13 @@
 | zxing     | ZXing ("Zebra Crossing") barcode scanning library for Java, Android| https://github.com/zxing/zxing    |
 | Luban     |Image compression with efficiency very close to WeChat Moments|  https://github.com/Curzibn/Luban     |
 | PictureSelector     |多图片选择器|  https://github.com/LuckSiege/PictureSelector     |
+
+
+
+### Android Studio Plugins
+| Name        | des  |  url |
+| --------   | -----  | ---- |
+| Android Parcelable code generation Plugin     | Parcelable自动生成工具|  https://github.com/mcharmas/android-parcelable-intellij-plugin     |
+| dagger-intellij-plugin     | An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used.|  https://github.com/square/dagger-intellij-plugin     |
+| GsonFormat     | Parcelable自动生成工具|  https://github.com/mcharmas/android-parcelable-intellij-plugin     |
+| Android ButterKnife Zelezny     | Android Studio plug-in for generating ButterKnife injections from selected layout XML.|  https://github.com/avast/android-butterknife-zelezny     |
