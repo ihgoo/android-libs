@@ -10,6 +10,18 @@
 | glide     | An image loading and caching library for Android focused on smooth scrolling|  https://github.com/bumptech/glide    |
 | okhttp     | An HTTP+HTTP/2 client for Android and Java applications. |  https://github.com/square/okhttp    |
 | ARouter     | 一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦 |  https://github.com/alibaba/ARouter    |
+| Rxlifecycle  | Lifecycle handling APIs for Android apps using RxJava |  https://github.com/trello/RxLifecycle    |
+| RxCache  | Reactive caching library for Android and Java |  https://github.com/VictorAlbertos/RxCache    |
+| Gson  | A Java serialization/deserialization library to convert Java Objects into JSON and back |  https://github.com/google/gson    |
+| butterknife  | Bind Android views and callbacks to fields and methods. |  https://github.com/JakeWharton/butterknife    |
+| leakcanary  | 
+A memory leak detection library for Android and Java. |  https://github.com/square/leakcanary    |
+
+
+
+
+
+
 
 
 ### widget
