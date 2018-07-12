@@ -14,8 +14,7 @@
 | RxCache  | Reactive caching library for Android and Java |  https://github.com/VictorAlbertos/RxCache    |
 | Gson  | A Java serialization/deserialization library to convert Java Objects into JSON and back |  https://github.com/google/gson    |
 | butterknife  | Bind Android views and callbacks to fields and methods. |  https://github.com/JakeWharton/butterknife    |
-| leakcanary  | 
-A memory leak detection library for Android and Java. |  https://github.com/square/leakcanary    |
+| leakcanary  | A memory leak detection library for Android and Java. |  https://github.com/square/leakcanary    |
 
 
 
@@ -52,6 +51,7 @@ A memory leak detection library for Android and Java. |  https://github.com/squa
 | dagger-intellij-plugin     | An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used.|  https://github.com/square/dagger-intellij-plugin     |
 | GsonFormat     | Parcelable自动生成工具|  https://github.com/mcharmas/android-parcelable-intellij-plugin     |
 | Android ButterKnife Zelezny     | Android Studio plug-in for generating ButterKnife injections from selected layout XML.|  https://github.com/avast/android-butterknife-zelezny     |
+| freeline     | Android 平台上的秒级编译方案，support Android Studio 3.1.x|  https://github.com/alibaba/freeline/files/1978716/freeline-studio-plugin.jar.zip     |
 
 
 
