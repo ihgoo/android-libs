@@ -1,4 +1,5 @@
 
+### Core
 
 | Name        | des  |  url |
 | --------   | -----  | ---- |
@@ -23,7 +24,7 @@
 
 
 
-### widget
+### Widget
 
 
 | Name        | des  |  url |
@@ -33,7 +34,7 @@
 | AutoLabelUI |  Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line |    https://github.com/DavidPizarro/AutoLabelUI   |
 
 
-### bundle
+### Features
 
 
 | Name        | des  |  url |
