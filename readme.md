@@ -30,6 +30,7 @@
 | --------   | -----  | ---- |
 | WheelPicker     | Simple and fantastic wheel view in realistic effect for android.|  https://github.com/AigeStudio/WheelPicker     |
 | vlayout     | Project vlayout is a powerfull LayoutManager extension for RecyclerView|  https://github.com/alibaba/vlayout     |
+| AutoLabelUI |  Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line |    https://github.com/DavidPizarro/AutoLabelUI   |
 
 
 ### bundle
@@ -42,6 +43,8 @@
 | Luban     |Image compression with efficiency very close to WeChat Moments|  https://github.com/Curzibn/Luban     |
 | PictureSelector     |多图片选择器|  https://github.com/LuckSiege/PictureSelector     |
 | java-code-styles     |IntelliJ IDEA code style settings for Square's Java and Android projects.|  https://github.com/square/java-code-styles     |
+| Matisse| 本地图片视频选择器 知乎| https://github.com/zhihu/Matisse|
+ 
 
 
 ### Android Studio Plugins
