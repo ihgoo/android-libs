@@ -45,6 +45,9 @@
 | PictureSelector     |多图片选择器|  https://github.com/LuckSiege/PictureSelector     |
 | java-code-styles     |IntelliJ IDEA code style settings for Square's Java and Android projects.|  https://github.com/square/java-code-styles     |
 | Matisse| 本地图片视频选择器 知乎| https://github.com/zhihu/Matisse|
+| MVPArms | A common architecture for Android applications developing based on MVP|https://github.com/JessYanCoding/MVPArms|
+| MVVMHabit | 基于DataBinding框架，MVVM设计模式的一套快速开发库 | https://github.com/goldze/MVVMHabit|
+
  
 
 
